@@ -1,0 +1,20 @@
+
+:root{
+    --mainFont:'Roboto', sans-serif;
+    --accentColor: #0c967c;
+}
+
+body{
+    padding: 0px 0px;
+    margin: 0px 0px;
+    font-family: var(--mainFont);
+}
+html{
+    /* -webkit-tap-highlight-color: transparent; */
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+
+
+
+
