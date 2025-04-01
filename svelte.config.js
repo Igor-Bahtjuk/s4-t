@@ -16,9 +16,7 @@ const config = {
 		}),
 		alias:{
 			$lib:        "src/lib",
-			$widgets:    "src/widgets",
 			$assets:     "src/assets",
-			$apiManager: "src/apiManager"
 		}
 	}
 };
